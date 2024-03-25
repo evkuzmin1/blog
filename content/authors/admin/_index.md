@@ -53,18 +53,33 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 25
         icon: python
         icon_pack: fab
       - name: Project managment
         description: ''
-        percent: 100
-        icon: chart-line
+        percent: 95
+        icon: pie-chart
         icon_pack: fas
       - name: Data-Analyse
         description: ''
         percent: 40
-        icon: database
+        icon: server
+        icon_pack: fas
+      - name: Communication
+        description: ''
+        percent: 88
+        icon: podcast
+        icon_pack: fas
+      - name: Leadership
+        description: ''
+        percent: 61
+        icon: star
+        icon_pack: fas
+      - name: Critical 
+        description: ''
+        percent: 40
+        icon: server
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -84,6 +99,21 @@ skills:
         description: ''
         percent: 80
         icon: camera-retro
+        icon_pack: fas
+      - name: Cars
+        description: ''
+        percent: 80
+        icon: car
+        icon_pack: fas
+      - name: Trading
+        description: ''
+        percent: 80
+        icon: bar-chart
+        icon_pack: fas
+      - name: Astronomy
+        description: ''
+        percent: 80
+        icon: moon-o
         icon_pack: fas
 
 # Social/Academic Networking

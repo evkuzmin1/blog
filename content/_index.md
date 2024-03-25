@@ -62,27 +62,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Project Managment Assistant
+          company: Innovate Tech Solutions
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          company_logo: gb
+          location: Russia
+          date_start: '2021-02-02'
+          date_end: '2023-04-11'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Основы управления проектами и понимание жизненного цикла 
+              * Понимание основ контроля качества и тестирования продукта
+              * Навыки работы с Jira и Trello
+        - title: Senior Project Managment
+          company: Global Digital Innovations
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: jk
+          location: Russia
+          date_start: '2023-05-09'
+          date_end: ''
+          description: Руковожу командами, развиваю и мотивирую своих сотрудников
     design:
       columns: '2'
   - block: accomplishments
@@ -100,30 +100,30 @@ sections:
       items:
         - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2024-01-25'
           description: ''
           icon: coursera
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Python&Java
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://www.stepik.org
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          date_start: '2023-02-20'
+          description: SQL + Python Data Science
+          icon: ''
+          organization: stepik
+          organization_url: https://www.stepik.org
+          title: SQL + Python Data Science
+          url: ''
         - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_end: '2023-12-21'
+          date_start: '2022-07-01'
           description: ''
           icon: datacamp
           organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          title: 'Object-Oriented Programming '
           url: ''
     design:
       columns: '2'
